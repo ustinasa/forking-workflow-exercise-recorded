@@ -49,6 +49,6 @@
      taste. Heat the soup until it is just warmed through; do not boil after
      adding the cream.
 
-7. **Serve:**
+7. **Serve well:**
    - Ladle the soup into bowls and garnish with fresh parsley. Serve with
      crusty bread on the side for dipping.
