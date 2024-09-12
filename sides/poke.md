@@ -1,17 +1,17 @@
 # Poke recipe
 
-
+Specified amounts of eaach ingredient are just a auggestion. Adjust it to your own taste. 
 ## Ingredients
-
-- avocado
-- salmon or ahi-tuna
-- little soy sauce
-- little sesame oil
-- sesame seeds
-- red onion
-- green onion
-- grated ginger
-- lime
+Choose your base: rice, greens or quinoa - 1 cup
+1 avocado
+200 g of salmon or ahi-tuna
+1 tbsp of soy sauce
+1 tbsp of sesame oil
+1 tbsp of sesame seeds
+1/2 of thinly sliced red onion
+2 tbsp of green onion
+1/2 tbsp of grated ginger
+juice from 1/2 of lime
 
 ## Instructions
 
